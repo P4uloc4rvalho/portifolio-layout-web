@@ -10,7 +10,7 @@
     Grandes telas: acima de 1200px
 */
 
-@media screen and (min-width: 600px) and (max-width:992px)
+@media screen and (min-width: 400px) and (max-width:992px)
 {
     * {
         padding: 0px;
